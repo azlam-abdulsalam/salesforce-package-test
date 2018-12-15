@@ -3,10 +3,16 @@ Test for Picklist Value changes through unlocked packaging
 
 Steps to Reproduce 
 
-1.Creating a version of the  package with this source code and deploy this into a org (Scratch/Sandbox)
+
+
+
+1. Creating a version of the  package with this source code and deploy this into a org (Scratch/Sandbox)
 2. Changing the values of Picklist  Question_Type__c.field-meta.xml 
-3. Create a new version of the package
-4. Check in the target org, the new package would have been deployed, but picklist values remain the same.
+2. Create a new version of the package
+3. Check in the target org, the new package would have been deployed, but picklist values remain the same.
+
+
+
 
 Try with Metadata Deployment
 
