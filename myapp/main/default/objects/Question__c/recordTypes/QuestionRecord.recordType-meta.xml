@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>QuestionRecord</fullName>
+    <active>true</active>
+    <label>QuestionRecord</label>
+    <picklistValues>
+        <picklist>Question_Type__c</picklist>
+        <values>
+            <fullName>Clone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>New</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reopened</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Test</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tests</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Tough</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

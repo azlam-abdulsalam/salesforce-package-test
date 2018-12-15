@@ -1,0 +1,26 @@
+{
+    "packageDirectories": [
+        {
+            "path": "myapp",
+            "package": "test3",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.2.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "test3": "0Ho6F000000XZktSAG",
+        "test3@0.1.0-1": "04t6F000003zBDoQAM",
+        "test3@0.1.0-2": "04t6F000003zBDtQAM",
+        "test3@0.1.0-3": "04t6F000003zBDyQAM",
+        "test3@0.1.0-4": "04t6F000003zBE3QAM",
+        "test3@0.2.0-1": "04t6F000003zBE8QAM",
+        "test3@0.2.0-2": "04t6F000003zBEDQA2",
+        "test3@0.2.0-3": "04t6F000003zBEIQA2",
+        "test3@0.2.0-4": "04t6F000003zBENQA2",
+        "test3@0.2.0-5": "04t6F000003zBEmQAM"
+    }
+}
